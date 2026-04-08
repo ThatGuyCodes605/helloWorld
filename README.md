@@ -8,3 +8,4 @@ Current Programming Languages Supported:
 - Python
 - Rust
 - JavaScript
+- Brainf*ck
