@@ -7,3 +7,4 @@ Current Programming Languages Supported:
 - C++
 - Python
 - Rust
+- JavaScript
