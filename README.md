@@ -4,5 +4,6 @@ helloWorld is a set of files that allow you to run it in different programming l
 Current Programming Languages Supported:
 
 - C
+- C++
 - Python
 - Rust
