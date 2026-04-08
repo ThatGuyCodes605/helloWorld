@@ -1,10 +1,7 @@
 #include <stdio.h>
 
 int main(void)
-
 {
-
-	printf ("\nhello, world\n");
-
+	printf ("hello, world\n");
 }
 
