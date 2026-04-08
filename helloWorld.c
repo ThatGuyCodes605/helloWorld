@@ -7,7 +7,7 @@ void hello_world(char* s){
 }
 int main(void)
 {
-	hello_world("print");
+	hello_world("Hello, World");
 	return 0;
 }
 
